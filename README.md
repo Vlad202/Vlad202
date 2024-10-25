@@ -1,6 +1,4 @@
-# Hi, I'm Full-stack developer! 👋
-
-## 🛠 My Tech Stack
+# 🛠 My Tech Stack
 
 ### Backend
 
@@ -41,12 +39,6 @@
   <img height="35" src="https://img.shields.io/badge/AWS%20Amplify-FF9900?style=for-the-badge&logo=aws-amplify&logoColor=white" alt="AWS Amplify" />
   <img height="35" src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" />
   <img height="35" src="https://img.shields.io/badge/RabbitMQ-FF6600?style=for-the-badge&logo=rabbitmq&logoColor=white" alt="RabbitMQ" />
-</p>
-
-### Microservices & Architecture
-<p align="left">
-  <img height="35" src="https://img.shields.io/badge/Microservices-blue?style=for-the-badge" alt="Microservices" />
-  <img height="35" src="https://img.shields.io/badge/RESTful_APIs-0052CC?style=for-the-badge&logo=api&logoColor=white" alt="RESTful APIs" />
 </p>
 
 ---
