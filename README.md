@@ -4,12 +4,12 @@
 
 <p align="left">
 
-  <img height="35" src="https://img.shields.io/badge/Node.js-207f34?style=for-the-badge&logo=node.js&logoColor=white" alt="Node.js" />
-  <img height="35" src="https://img.shields.io/badge/Express-0e9c2c?style=for-the-badge&logo=express&logoColor=white" alt="Express" />
-  <img height="35" src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" />
-  <img height="35" src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" alt="PHP" />
-  <img height="35" src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
-  <img height="35" src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white" alt="Django" />
+  <img height="30" src="https://img.shields.io/badge/Node.js-207f34?style=for-the-badge&logo=node.js&logoColor=white" alt="Node.js" />
+  <img height="30" src="https://img.shields.io/badge/Express-0e9c2c?style=for-the-badge&logo=express&logoColor=white" alt="Express" />
+  <img height="30" src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" />
+  <img height="30" src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" alt="PHP" />
+  <img height="30" src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
+  <img height="30" src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white" alt="Django" />
 </p>
 
 ### Frontend
