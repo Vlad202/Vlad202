@@ -1,4 +1,4 @@
-# 🛠 My Tech Stack
+## 🛠 My Tech Stack
 
 ### Backend
 
