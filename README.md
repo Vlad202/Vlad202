@@ -44,4 +44,7 @@
 ---
 
 ## 🧑‍💻 Open to Collaborate
-If you have interesting projects or opportunities, feel free to reach out to me via email at **vladlen.dumanskyi@gmail.com**.
+If you have interesting projects or opportunities, feel free to reach out to me via &nbsp;
+<a href="https://t.me/SoVladlen13"><span><img src="https://upload.wikimedia.org/wikipedia/commons/8/82/Telegram_logo.svg" alt="Telegram" width="20" height="20" /></span></a> &nbsp;
+or email at &nbsp;
+<a href="mailto:vladlen.dumanskyi@gmail.com"><span><img src="https://upload.wikimedia.org/wikipedia/commons/4/4e/Gmail_Icon.png" alt="Gmail" width="20" height="20" /></span>
