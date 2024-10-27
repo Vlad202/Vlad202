@@ -41,8 +41,8 @@
 
 ### APIs & Integrations
 <p align="left">
-  <img height="30" src="https://img.shields.io/badge/Telegram%20API-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram API" />&nbsp;&nbsp;
-  <img height="30" src="https://img.shields.io/badge/OpenAI%20API-412991?style=for-the-badge&logo=openai&logoColor=white" alt="OpenAI API" />&nbsp;&nbsp;
+  <img height="30" src="https://img.shields.io/badge/Telegram%20API-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram API" />
+  <img height="30" src="https://img.shields.io/badge/OpenAI%20API-412991?style=for-the-badge&logo=openai&logoColor=white" alt="OpenAI API" />
   <img height="30" src="https://img.shields.io/badge/CRM-FF9900?style=for-the-badge&logo=crm&logoColor=white" alt="CRM" />
 </p>
 
