@@ -1,4 +1,4 @@
-## 🛠 My current Work Stack
+## 🛠 My current Tech Stack
 
 ### Backend
 
