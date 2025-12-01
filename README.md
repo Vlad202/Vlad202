@@ -5,9 +5,7 @@
 <p align="left">
 
   <img height="30" src="https://img.shields.io/badge/Node.js-207f34?style=for-the-badge&logo=node.js&logoColor=white" alt="Node.js" />
-  <img height="30" src="https://img.shields.io/badge/Express-0e9c2c?style=for-the-badge&logo=express&logoColor=white" alt="Express" />
   <img height="30" src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" />
-  <img height="30" src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" alt="PHP" />
   <img height="30" src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
 </p>
 
@@ -16,7 +14,6 @@
   <img height="30" src="https://img.shields.io/badge/Vue.js-4FC08D?style=for-the-badge&logo=vue.js&logoColor=white" alt="Vue.js" />
   <img height="30" src="https://img.shields.io/badge/Nuxt.js-00C58E?style=for-the-badge&logo=nuxt.js&logoColor=white" alt="Nuxt.js" />
   <img height="30" src="https://img.shields.io/badge/React-02b2c3?style=for-the-badge&logo=react&logoColor=white" alt="React" />
-  <img height="30" src="https://img.shields.io/badge/AWS%20Amplify-FF9900?style=for-the-badge&logo=aws-amplify&logoColor=white" alt="AWS Amplify" />
   <img height="30" src="https://img.shields.io/badge/Tailwind_CSS-10a79f?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="TailwindCSS" />
 </p>
 
@@ -32,8 +29,6 @@
 ### Cloud & DevOps
 <p align="left">
   <img height="30" src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white" alt="AWS" />
-  <img height="30" src="https://img.shields.io/badge/AWS%20API%20Gateway-FF4F8B?style=for-the-badge&logo=amazon-api-gateway&logoColor=white" alt="AWS API Gateway" />
-  <img height="30" src="https://img.shields.io/badge/AWS%20Lambda-FF9900?style=for-the-badge&logo=aws-lambda&logoColor=white" alt="AWS Lambda" />
   <img height="30" src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" />
   <img height="30" src="https://img.shields.io/badge/RabbitMQ-FF6600?style=for-the-badge&logo=rabbitmq&logoColor=white" alt="RabbitMQ" />
 </p>
